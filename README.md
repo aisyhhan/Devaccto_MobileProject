@@ -1,6 +1,6 @@
 # devaccto_project
 
-A new Flutter project.
+Project Mobile Devaccto
 
 ## Getting Started
 
