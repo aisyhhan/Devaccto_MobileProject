@@ -89,7 +89,7 @@ class DevacctoProject extends StatelessWidget {
               ),
             ),
             Image.asset(
-              'assets/images/background random.jpg', 
+              'assets/images/foodie.jpeg', 
               width: 431.0, 
               height: 150.0,
               fit: BoxFit.cover,
@@ -105,17 +105,17 @@ class DevacctoProject extends StatelessWidget {
                   Row(
                     mainAxisAlignment: MainAxisAlignment.spaceAround,
                     children: [
-                      ContainerHome(text: "breakfast"),
-                      ContainerHome(text: "lunch"),
-                      ContainerHome(text: "dinner"),
+                      ContainerHome(text: "breakfast", image: "assets/images/banana.jpeg",),
+                      ContainerHome(text: "lunch", image: "assets/images/donat.jpeg",),
+                      ContainerHome(text: "dinner", image: "assets/images/pancake.jpeg"),
                     ],
                   ),
                   Row(
                     mainAxisAlignment: MainAxisAlignment.spaceAround,
                     children: [
-                      ContainerHome(text: "salad"),
-                      ContainerHome(text: "drink"),
-                      ContainerHome(text: "soup"),
+                      ContainerHome(text: "salad", image: "assets/images/gudeg.jpeg"),
+                      ContainerHome(text: "drink", image: "assets/images/rawon.jpeg"),
+                      ContainerHome(text: "soup", image: "assets/images/sotobetawi.jpeg"),
                     ],
                   )
                 ],

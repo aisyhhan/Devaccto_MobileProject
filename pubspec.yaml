@@ -58,7 +58,17 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/images/background random.jpg
+    - assets/images/banana.jpeg
+    - assets/images/donat.jpeg
+    - assets/images/foodie.jpeg
+    - assets/images/gudeg.jpeg
+    - assets/images/milkshake.jpeg
+    - assets/images/mpekmpek.jpeg
+    - assets/images/pancake.jpeg
+    - assets/images/rawon.jpeg
+    - assets/images/rendang.jpeg
+    - assets/images/sotobetawi.jpeg
+    - assets/images/waffle.jpeg
   # To add assets to your application, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg
