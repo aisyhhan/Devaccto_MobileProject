@@ -65,7 +65,7 @@ class FavoriteScreen extends StatelessWidget {
                 children: [
                   ContainerHome(
                     text: "Waffle",
-                    image: 'assets/images/wafflws.jpeg',
+                    image: 'assets/images/waffle.jpeg',
                   ),
                   ContainerHome(
                     text: "Milkshake",
@@ -86,7 +86,7 @@ class FavoriteScreen extends StatelessWidget {
                   ),
                   ContainerHome(
                     text: "Soto Betawi",
-                    image: 'assets/images/Sotobetawi.jpeg',
+                    image: 'assets/images/sotobetawi.jpeg',
                   ),
                   ContainerHome(
                     text: "Rawon",
